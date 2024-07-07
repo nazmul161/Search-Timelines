@@ -7,8 +7,8 @@ import DeviceInfo from 'react-native-device-info';
 //  let backendurl='http://localhost:5000';
 let backendurl='https://backend-7uej64gd5a-uc.a.run.app';
 
-// let corsurl='';
-let corsurl='https://cors-anywhere-7uej64gd5a-uc.a.run.app/';
+ let corsurl='';
+//let corsurl='https://cors-anywhere-7uej64gd5a-uc.a.run.app/';
 
 // This function gets the controlnumbers of the saved documents and puts it in the savedDocsList state hook.
 const getSavedDocsControlNumbers = (uid, setSavedDocsList, query, searchTopic) => {
