@@ -4,8 +4,8 @@ import { toast } from 'react-toastify';
 import React from 'react';
 import DeviceInfo from 'react-native-device-info';
 
-//  let backendurl='http://localhost:5000';
-let backendurl='https://backend-7uej64gd5a-uc.a.run.app';
+let backendurl='http://localhost:5000';
+// let backendurl='https://backend-7uej64gd5a-uc.a.run.app';
 
  let corsurl='';
 //let corsurl='https://cors-anywhere-7uej64gd5a-uc.a.run.app/';
